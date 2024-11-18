@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\source\\repos\\New talents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22A9516-34AF-4FE2-B6A2-E00B8CF9CD6A}|Test New Talents\\Test New Talents.csproj|c:\\users\\windows\\source\\repos\\new talents\\test new talents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22A9516-34AF-4FE2-B6A2-E00B8CF9CD6A}|Test New Talents\\Test New Talents.csproj|solutionrelative:test new talents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEAD77F-C45D-4D54-B827-D286CE5198A0}|New talents\\New talents.csproj|c:\\users\\windows\\source\\repos\\new talents\\new talents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEAD77F-C45D-4D54-B827-D286CE5198A0}|New talents\\New talents.csproj|solutionrelative:new talents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22A9516-34AF-4FE2-B6A2-E00B8CF9CD6A}|Test New Talents\\Test New Talents.csproj|c:\\users\\windows\\source\\repos\\new talents\\test new talents\\test new talents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F22A9516-34AF-4FE2-B6A2-E00B8CF9CD6A}|Test New Talents\\Test New Talents.csproj|solutionrelative:test new talents\\test new talents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test New talents",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\New talents\\Test New Talents\\Test New talents.csproj",
+              "RelativeDocumentMoniker": "Test New Talents\\Test New talents.csproj",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\New talents\\Test New Talents\\Test New talents.csproj",
+              "RelativeToolTip": "Test New Talents\\Test New talents.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T03:46:39.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\New talents\\New talents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "New talents\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\New talents\\New talents\\Calculadora.cs",
+              "RelativeToolTip": "New talents\\Calculadora.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:49:27.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\source\\repos\\New talents\\Test New Talents\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test New Talents\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Windows\\source\\repos\\New talents\\Test New Talents\\UnitTest1.cs",
+              "RelativeToolTip": "Test New Talents\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:39:19.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
